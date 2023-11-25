@@ -38,13 +38,12 @@
     font-weight: bold;  
 }
 
-button{
-    padding:3px;
-    margin: 05px;
-    margin-left: 100px;
-    background-color: blueviolet;
+#btn{
+    width: 105px;
+    margin-left: 111px;
     border: none;
-
+    background-color: #08f04e;
+    color: aliceblue;
 }
 
 a{
